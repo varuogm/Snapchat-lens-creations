@@ -1,8 +1,9 @@
 # Gourav Snapchat lenses 👯
+
 > welcome to the repo where i share my snaplens files.
 
-soon addding more contributers including LEGEND ✨ @chandresh  ✨ 
 
+soon addding more contributers including LEGEND ✨ @chandresh  ✨ 
 
 ---
 
@@ -18,8 +19,6 @@ snapcode-[ here 💚](https://github.com/varuogm/My-snap-creations/blob/master/b
     <img alt="blacked" src="https://github.com/varuogm/My-snap-creations/blob/master/blacked/Previews/PIC1.jpeg?raw=true" width="200"/>
  
 </p>
-
----
 
 ## Awesome Flames 🔥
  ( published )
