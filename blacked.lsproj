@@ -1,0 +1,1109 @@
+{
+    "lens_id": "9ec93c22-0630-492f-a416-2a5879ebf77e",
+    "document_id": "QHiiu-zpDfL87Rfv09Vj",
+    "original_document_id": "QHiiu-zpDfL87Rfv09Vj",
+    "version": "23",
+    "lastChanged": "1591721760565",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "2020-05-28T14:51:16.628Z",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Diffuse"
+                    ],
+                    [
+                        "Empty"
+                    ],
+                    [
+                        "GIF by Josh Rigling"
+                    ],
+                    [
+                        "PBR"
+                    ],
+                    [
+                        "Particles"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Emitter Material"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Mesh"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Texture"
+                    ],
+                    [
+                        "Pink Love Sticker by Claudia Guariglia (Enyoudraws)"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "MaterialParams"
+                    ],
+                    [
+                        "Textures",
+                        "Normal"
+                    ],
+                    [
+                        "Textures",
+                        "white"
+                    ],
+                    [
+                        "Unlit"
+                    ],
+                    [
+                        "WhatsApp Image 2020-05-27 at 5"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "6f2dc78339b9e396e14e1893ad70137e",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                "lens_hint_do_not_try_with_a_friend"
+            ],
+            "lens": "loving black",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Open Mouth Person 3.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1590674967489545:15473",
+                    "1590675100021150:17048",
+                    "1590675142943104:18105",
+                    "1590675393746242:26480"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1590674858453419:13666",
+                    "name": "Files\/File3.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1590674877364423:13768",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1590674890334940:13979",
+                    "name": "Files\/File7",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1590674890693047:14024",
+                    "name": "Files\/File9.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1590674890788017:14036",
+                    "name": "Files\/File11.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1590674890888987:14048",
+                    "name": "Files\/File13.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1590674893245670:14092",
+                    "name": "Files\/File15",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1590674893725571:14123",
+                    "name": "Files\/File17.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1590674895541577:14301",
+                    "name": "Files\/File19",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1590674937921257:14841",
+                    "name": "Files\/File21.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1590674938029807:14853",
+                    "name": "Files\/File23",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1590674938488597:14872",
+                    "name": "Files\/File25.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1590675142902817:18095",
+                    "name": "Files\/File26",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1590675393729716:26470",
+                    "name": "Files\/File28",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": [
+                        {
+                            "k": "1590674967490137:15474",
+                            "v": {
+                                "eyeColorInfo": {
+                                    "textureUid": "-1:-1",
+                                    "mode": "0",
+                                    "color": {
+                                        "x": "0.666666687",
+                                        "y": "0.121568628",
+                                        "z": "0.0156862754",
+                                        "w": "0.600000024"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1590674858152201:13620",
+                "4": "1590674858153292:13621",
+                "5": "1590674967489545:15473",
+                "6": "1590675393745892:26479"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.png"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.png"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.lsmat"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.png"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.png"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.lsmat"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.lsmat"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.jpg"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.jpg"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.lsmat"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.mesh"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.gif"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.gif"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "589",
+                        "v": "Empty.png"
+                    },
+                    {
+                        "k": "590",
+                        "v": "WhatsApp Image 2020-05-27 at 5.jpeg"
+                    },
+                    {
+                        "k": "591",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "592",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "593",
+                        "v": "Textures\/MaterialParams.png"
+                    },
+                    {
+                        "k": "594",
+                        "v": "Textures\/Normal.png"
+                    },
+                    {
+                        "k": "595",
+                        "v": "PBR.lsmat"
+                    },
+                    {
+                        "k": "596",
+                        "v": "Textures\/white.png"
+                    },
+                    {
+                        "k": "597",
+                        "v": "Unlit.lsmat"
+                    },
+                    {
+                        "k": "598",
+                        "v": "Diffuse.lsmat"
+                    },
+                    {
+                        "k": "599",
+                        "v": "Particles"
+                    },
+                    {
+                        "k": "600",
+                        "v": "Particles\/Particles Texture.jpg"
+                    },
+                    {
+                        "k": "601",
+                        "v": "Particles\/Particles Emitter Material.lsmat"
+                    },
+                    {
+                        "k": "602",
+                        "v": "Particles\/Particles Mesh.mesh"
+                    },
+                    {
+                        "k": "603",
+                        "v": "GIF by Josh Rigling.gif"
+                    },
+                    {
+                        "k": "604",
+                        "v": "Pink Love Sticker by Claudia Guariglia (Enyoudraws).gif"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "589",
+                        "v": "176ebd81a6145a98cc0464c9264b7fce"
+                    },
+                    {
+                        "k": "590",
+                        "v": "df4d5ff080bc684f36c788cc9e808ee9"
+                    },
+                    {
+                        "k": "592",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "593",
+                        "v": "af2715bddfbca2d4e72f470d285c5010"
+                    },
+                    {
+                        "k": "594",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "595",
+                        "v": "0c89e27aa273350c67bbb552ba08ed91"
+                    },
+                    {
+                        "k": "596",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "597",
+                        "v": "3d50a7889533fc5dd0c7a7c8f51e2bed"
+                    },
+                    {
+                        "k": "598",
+                        "v": "11a0bdb69904835a7fec2c6b91b0c78b"
+                    },
+                    {
+                        "k": "600",
+                        "v": "633e6164fd04c2de5d7f0ed88b3dd76d"
+                    },
+                    {
+                        "k": "601",
+                        "v": "fbd2c31fd21cc64d3d059ed7e927fa1b"
+                    },
+                    {
+                        "k": "602",
+                        "v": "a5adcbdb568b3556fe3d03137cb05292"
+                    },
+                    {
+                        "k": "603",
+                        "v": "d1fbddc729b96d6a99ed5871443df857"
+                    },
+                    {
+                        "k": "604",
+                        "v": "bc478c0a2892f45a1267be7f686b209d"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-05-28T19:46:33",
+                        "name": "Public",
+                        "hash": "2d837fe295efb89ec4a31d4485f6f064",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-28T19:38:18",
+                                "name": "Diffuse.lsmat",
+                                "hash": "11a0bdb69904835a7fec2c6b91b0c78b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Empty.png",
+                                "hash": "176ebd81a6145a98cc0464c9264b7fce",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-28T19:42:21",
+                                "name": "GIF by Josh Rigling.gif",
+                                "hash": "d1fbddc729b96d6a99ed5871443df857",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-05-28T19:38:59",
+                                "name": "Particles",
+                                "hash": "30e9ae8d9d4247944155a591dac902f4",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-28T19:38:57",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-28T19:38:59",
+                                        "name": "Particles Emitter Material.lsmat",
+                                        "hash": "fbd2c31fd21cc64d3d059ed7e927fa1b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-28T19:38:57",
+                                        "name": "Particles Mesh.mesh",
+                                        "hash": "a5adcbdb568b3556fe3d03137cb05292",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-28T19:38:57",
+                                        "name": "Particles Texture.jpg",
+                                        "hash": "633e6164fd04c2de5d7f0ed88b3dd76d",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-28T19:38:14",
+                                "name": "PBR.lsmat",
+                                "hash": "0c89e27aa273350c67bbb552ba08ed91",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-28T19:46:33",
+                                "name": "Pink Love Sticker by Claudia Guariglia (Enyoudraws).gif",
+                                "hash": "bc478c0a2892f45a1267be7f686b209d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-05-28T19:38:13",
+                                "name": "Textures",
+                                "hash": "bd427a99610257ce62c79273a58a13dc",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-28T19:38:10",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-28T19:38:10",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-28T19:38:10",
+                                        "name": "MaterialParams.png",
+                                        "hash": "af2715bddfbca2d4e72f470d285c5010",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-28T19:38:10",
+                                        "name": "Normal.png",
+                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-28T19:38:13",
+                                        "name": "white.png",
+                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-28T19:38:44",
+                                "name": "Unlit.lsmat",
+                                "hash": "3d50a7889533fc5dd0c7a7c8f51e2bed",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-27T18:37:10",
+                                "name": "WhatsApp Image 2020-05-27 at 5.jpeg",
+                                "hash": "df4d5ff080bc684f36c788cc9e808ee9",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Empty",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "10",
+                        "dependency": "0",
+                        "uid": "1590674858453419:13666",
+                        "fileId": "3",
+                        "originalId": "4",
+                        "publicId": "589",
+                        "source": "D:\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Empty.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "WhatsApp Image 2020-05-27 at 5",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "11",
+                        "dependency": "0",
+                        "uid": "1590674877364423:13768",
+                        "fileId": "5",
+                        "originalId": "6",
+                        "publicId": "590",
+                        "source": "C:\/Users\/hp\/Downloads\/WhatsApp Image 2020-05-27 at 5.10.54 PM.jpeg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "591",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "13",
+                                "dependency": "0",
+                                "uid": "1590674890693047:14024",
+                                "fileId": "9",
+                                "originalId": "10",
+                                "publicId": "592",
+                                "source": "C:\/Users\/hp\/AppData\/Local\/Temp\/Lens Studio-jcGsjT\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "MaterialParams",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "14",
+                                "dependency": "0",
+                                "uid": "1590674890788017:14036",
+                                "fileId": "11",
+                                "originalId": "12",
+                                "publicId": "593",
+                                "source": "C:\/Users\/hp\/AppData\/Local\/Temp\/Lens Studio-jcGsjT\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "15",
+                                "dependency": "0",
+                                "uid": "1590674890888987:14048",
+                                "fileId": "13",
+                                "originalId": "14",
+                                "publicId": "594",
+                                "source": "C:\/Users\/hp\/AppData\/Local\/Temp\/Lens Studio-jcGsjT\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "white",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "17",
+                                "dependency": "0",
+                                "uid": "1590674893725571:14123",
+                                "fileId": "17",
+                                "originalId": "18",
+                                "publicId": "596",
+                                "source": "C:\/Users\/hp\/AppData\/Local\/Temp\/Lens Studio-jcGsjT\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "PBR",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "uid": "1590674890334940:13979",
+                        "fileId": "7",
+                        "originalId": "8",
+                        "publicId": "595",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Unlit",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "uid": "1590674893245670:14092",
+                        "fileId": "15",
+                        "originalId": "16",
+                        "publicId": "597",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Diffuse",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "18",
+                        "dependency": "0",
+                        "uid": "1590674895541577:14301",
+                        "fileId": "19",
+                        "originalId": "20",
+                        "publicId": "598",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Particles",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "599",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Particles Texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "19",
+                                "dependency": "0",
+                                "uid": "1590674937921257:14841",
+                                "fileId": "21",
+                                "originalId": "22",
+                                "publicId": "600",
+                                "source": "C:\/Users\/hp\/AppData\/Local\/Temp\/Lens Studio-jcGsjT\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Particles Emitter Material",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "20",
+                                "dependency": "0",
+                                "uid": "1590674938029807:14853",
+                                "fileId": "23",
+                                "originalId": "24",
+                                "publicId": "601",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Particles Mesh",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "21",
+                                "dependency": "0",
+                                "uid": "1590674938488597:14872",
+                                "fileId": "25",
+                                "originalId": "18446744073709551615",
+                                "publicId": "602",
+                                "source": "C:\/Users\/hp\/AppData\/Local\/Temp\/Lens Studio-jcGsjT\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "GIF by Josh Rigling",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "22",
+                        "dependency": "0",
+                        "uid": "1590675142902817:18095",
+                        "fileId": "26",
+                        "originalId": "27",
+                        "publicId": "603",
+                        "source": "",
+                        "additional": {
+                            "from_giphy": "true"
+                        }
+                    },
+                    {
+                        "name": "Pink Love Sticker by Claudia Guariglia (Enyoudraws)",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "23",
+                        "dependency": "0",
+                        "uid": "1590675393729716:26470",
+                        "fileId": "28",
+                        "originalId": "29",
+                        "publicId": "604",
+                        "source": "",
+                        "additional": {
+                            "from_giphy": "true"
+                        }
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
