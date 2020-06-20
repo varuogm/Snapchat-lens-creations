@@ -37,7 +37,7 @@ Snap link-[ here 💖 ](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=7810
 snapcode-[ here 🦄](https://github.com/chandresh189/My-snap-creations/blob/master/thunder_eyes1.0/Previews/snapcode.png)
 
 <p align="center">
-    <img alt="blacked" src="https://github.com/chandresh189/My-snap-creations/blob/master/thunder_eyes1.0/Previews/PIC1.jpeg?raw=true" width="200"/>
+    <img alt="blacked" src="https://github.com/chandresh189/My-snap-creations/blob/master/thunder_eyes1.0/Previews/PIC1.png?raw=true" width="200"/>
  
 </p>
 ---
