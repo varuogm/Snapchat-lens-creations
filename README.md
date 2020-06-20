@@ -2,6 +2,7 @@
 
 > welcome to the repo where i share my snaplens files.
 
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/varuogm/My-snap-creations?label=total%20repo%20watches&style=social">
 
 soon addding more contributers including LEGEND ✨ @chandresh  ✨ Arrived
 
