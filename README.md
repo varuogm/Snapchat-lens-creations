@@ -34,10 +34,10 @@ snapcode-[ notupdatedd 💛](https://www.snapchat.com/)
 Lens made with hand made drawing. 
 
 Snap link-[ here 💖 ](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=78106f141602436a9f337e6c44832130&metadata=01)
-snapcode-[ here 🦄](to be updated)
+snapcode-[ here 🦄](https://github.com/chandresh189/My-snap-creations/blob/master/thunder_eyes1.0/Previews/snapcode.png)
 
 <p align="center">
-    <img alt="blacked" src="https://github.com/chandresh189/My-snap-creations/blob/master//Previews/PIC1.jpeg?raw=true" width="200"/>
+    <img alt="blacked" src="https://github.com/chandresh189/My-snap-creations/blob/master/thunder_eyes1.0/Previews/PIC1.jpeg?raw=true" width="200"/>
  
 </p>
 ---
