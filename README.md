@@ -66,7 +66,7 @@ snapcode-[ here 🦴](https://github.com/chandresh189/My-snap-creations/blob/mas
 
 ## Credits
 
-- For any inquiries / questions / freelance / assests:2018pcecschandresh44@poornima.org and 2018pcecsgourav59@poornima.org 
+- For any inquiries / questions / freelance / assests:chandreshsingh23@gmail.com and 2018pcecsgourav59@poornima.org 
 - Preview images are taken from [snapchat] app on android (https://snapchat.com/)
 - Gif used from [giphy](https://giphy.com/) 
 - This readme is a inspired from the awesome [scribble lab](https://github.com/Jeremboo/scribble-lab).
