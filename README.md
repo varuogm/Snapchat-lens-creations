@@ -48,7 +48,7 @@ snapcode-[ here 🦄](https://github.com/chandresh189/My-snap-creations/blob/mas
 </p>
 
 ## Skeletan 💀
-<img alt="Custom badge" src="https://img.shields.io/badge/By%20---chandresh-critical">
+<img alt="Custom badge" src="https://img.shields.io/badge/By%20-chandresh-ff69b4">
 
 Lens made with hand made drawing. 
 
