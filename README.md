@@ -9,7 +9,8 @@ soon addding more contributers including LEGEND ✨ @chandresh  ✨ Arrived
 ---
 
 ## Blacked 💀
-( publisher- gourav )
+
+<img alt="Custom badge" src="https://img.shields.io/badge/By-Gourav-9cf">
 
 Lens made with customised black LUT. 
 
@@ -22,7 +23,7 @@ snapcode-[ here 💚](https://github.com/varuogm/My-snap-creations/blob/master/b
 </p>
 
 ## Awesome Flames 🔥
-( publisher- gourav)
+<img alt="Custom badge" src="https://img.shields.io/badge/By-Gourav-9cf">
 
 Customised flames which blends with different environment and a AWESOME tag on head.
 
@@ -35,7 +36,7 @@ Snaplens link[ here🌷 ](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=d9
 snapcode-[  here 😻](https://github.com/varuogm/My-snap-creations/blob/master/awesome%20flames/snapcode.png)
 
 ## Thunder ⚡
-( publisher- chandresh )
+<img alt="Custom badge" src="https://img.shields.io/badge/By%20---chandresh-critical">
 
 Lens made with hand made drawing. 
 
@@ -47,7 +48,7 @@ snapcode-[ here 🦄](https://github.com/chandresh189/My-snap-creations/blob/mas
 </p>
 
 ## Skeletan 💀
-( publisher- chandresh )
+<img alt="Custom badge" src="https://img.shields.io/badge/By%20---chandresh-critical">
 
 Lens made with hand made drawing. 
 
