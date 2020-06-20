@@ -25,8 +25,13 @@ snapcode-[ here 💚](https://github.com/varuogm/My-snap-creations/blob/master/b
 
 Customised flames which blends with different environment and a AWESOME tag on head.
 
-Snaplens link[ notupdatedd 💜](https://www.snapchat.com/)
-snapcode-[ notupdatedd 💛](https://www.snapchat.com/)
+<p align="center">
+    <img alt="blacked" src="https://github.com/varuogm/My-snap-creations/blob/master/awesome%20flames/GIF-200620_131043.gif?raw=true" width="200"/>
+ 
+</p>
+
+Snaplens link[ here🌷 ](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=d9670097c54e4e53aea6fc12db9fa59e&metadata=01)
+snapcode-[  here 😻](https://github.com/varuogm/My-snap-creations/blob/master/awesome%20flames/snapcode.png)
 
 ## Thunder ⚡
 ( publisher- chandresh )
