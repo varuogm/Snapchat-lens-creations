@@ -3,7 +3,7 @@
 > welcome to the repo where i share my snaplens files.
 
 
-soon addding more contributers including LEGEND ✨ @chandresh  ✨ 
+soon addding more contributers including LEGEND ✨ @chandresh  ✨ Arrived
 
 ---
 
@@ -28,6 +28,29 @@ Customised flames which blends with different environment and a AWESOME tag on h
 Snaplens link[ notupdatedd 💜](https://www.snapchat.com/)
 snapcode-[ notupdatedd 💛](https://www.snapchat.com/)
 
+## Thunder ⚡
+( published )
+
+Lens made with hand made drawing. 
+
+Snap link-[ here 💖 ](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=78106f141602436a9f337e6c44832130&metadata=01)
+snapcode-[ here 🦄](https://github.com/chandresh189/My-snap-creations/blob/master/thunder_eyes1.0/Previews/snapcode.png)
+
+<p align="center">
+    <img alt="thunder" src="https://github.com/chandresh189/My-snap-creations/blob/master/thunder_eyes1.0/Previews/PIC-1.png?raw=true" width="200"/>
+</p>
+
+## Skeletan 💀
+( published )
+
+Lens made with hand made drawing. 
+
+Snap link-[ here ☠️ ](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=bdb11795c1fd40448c370b2976f14630&metadata=01)
+snapcode-[ here 🦴](https://github.com/chandresh189/My-snap-creations/blob/master/skeletan2.0/Previews/snapcode.png)
+
+<p align="center">
+    <img alt="thunder" src="https://github.com/chandresh189/My-snap-creations/blob/master/skeletan2.0/Previews/PIC-1.png?raw=true" width="200"/>
+</p>
 ---
 
 
