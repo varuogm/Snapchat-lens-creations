@@ -1,4 +1,4 @@
-# Gourav Snapchat lenses 👯
+# Snapchat lenses 👯
 
 > welcome to the repo where i share my snaplens files.
 
@@ -8,7 +8,7 @@ soon addding more contributers including LEGEND ✨ @chandresh  ✨ Arrived
 ---
 
 ## Blacked 💀
-( published )
+( publisher- gourav )
 
 Lens made with customised black LUT. 
 
@@ -21,7 +21,7 @@ snapcode-[ here 💚](https://github.com/varuogm/My-snap-creations/blob/master/b
 </p>
 
 ## Awesome Flames 🔥
- ( published )
+( publisher- gourav)
 
 Customised flames which blends with different environment and a AWESOME tag on head.
 
@@ -29,7 +29,7 @@ Snaplens link[ notupdatedd 💜](https://www.snapchat.com/)
 snapcode-[ notupdatedd 💛](https://www.snapchat.com/)
 
 ## Thunder ⚡
-( published )
+( publisher- chandresh )
 
 Lens made with hand made drawing. 
 
@@ -41,7 +41,7 @@ snapcode-[ here 🦄](https://github.com/chandresh189/My-snap-creations/blob/mas
 </p>
 
 ## Skeletan 💀
-( published )
+( publisher- chandresh )
 
 Lens made with hand made drawing. 
 
@@ -66,7 +66,7 @@ snapcode-[ here 🦴](https://github.com/chandresh189/My-snap-creations/blob/mas
 
 ## Credits
 
-- For any inquiries / questions / freelance / assests: 2018pcecsgourav59@poornima.org
+- For any inquiries / questions / freelance / assests:2018pcecschandresh44@poornima.org and 2018pcecsgourav59@poornima.org 
 - Preview images are taken from [snapchat] app on android (https://snapchat.com/)
 - Gif used from [giphy](https://giphy.com/) 
 - This readme is a inspired from the awesome [scribble lab](https://github.com/Jeremboo/scribble-lab).
