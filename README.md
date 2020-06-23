@@ -58,6 +58,22 @@ snapcode-[ here 🦴](https://github.com/chandresh189/My-snap-creations/blob/mas
 <p align="center">
     <img alt="thunder" src="https://github.com/chandresh189/My-snap-creations/blob/master/skeletan2.0/Previews/PIC-1.png?raw=true" width="200"/>
 </p>
+
+
+## Black spirits (death) 🔥
+<img alt="Custom badge" src="https://img.shields.io/badge/By-Gourav-9cf">
+
+its a dark filter.It has maximum noise,wierd eyes, creepy transitions and a death skeleton note running.
+
+Snap link-[ here ☠️ ](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=5a9f7445c88a40f1a39f92ac31df24bd&metadata=01)
+snapcode-[ here 🦴](https://github.com/varuogm/My-snap-creations/blob/master/death/snapcode.png)
+
+<p align="center">
+    <img alt="death" src="https://github.com/varuogm/My-snap-creations/blob/master/death/GIF-200623_141103.gif?raw=true" width="200"/>
+ 
+</p>
+
+
 ---
 
 
