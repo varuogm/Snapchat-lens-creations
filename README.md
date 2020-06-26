@@ -4,7 +4,6 @@
 
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/varuogm/My-snap-creations?label=total%20repo%20watches&style=social">
 
-soon addding more contributers including LEGEND ✨ @chandresh  ✨ Arrived
 
 ---
 
@@ -86,6 +85,7 @@ snapcode-[ here 🦴](https://github.com/varuogm/My-snap-creations/blob/master/d
 > Stay tuned and star this to get the updates.
 
 
+soon addding more contributers including LEGEND ✨ @chandresh  ✨ Arrived
 
 ## Credits
 
