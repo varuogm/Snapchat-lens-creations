@@ -1,6 +1,6 @@
 # Snapchat lenses 👯
 
-> welcome to the repo where i share my snaplens files.
+> welcome to the repo where i share my snaplens files.    :octocat:
 
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/varuogm/My-snap-creations?label=total%20repo%20watches&style=social">
 
@@ -72,12 +72,22 @@ snapcode-[ here 🦴](https://github.com/varuogm/My-snap-creations/blob/master/d
  
 </p>
 
+## Purple Gold  (🔮)  :shipit:
+<img alt="Custom badge" src="https://img.shields.io/badge/By-Gourav-9cf">
+
+its a dark based filter.It changes its texture based on the light on the surrounding.
+
+{for better clear photos try clicking in little dark}
+
+Snap link-[ here 📌 ](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=e387ebaad4af48b5bd069bafb5696150&metadata=01)
+
+<p align="center">
+    <img alt="purple gold" src="https://github.com/varuogm/My-snap-creations/blob/master/purple%20gold/blue%20gold.png?raw=true" width="200"/>
+    <img alt="purple gold" src="https://github.com/varuogm/My-snap-creations/blob/master/purple%20gold/Hnet-image.gif?raw=true" width="200"/>
+</p>
+
 
 ---
-
-
-
-
 
 
 
