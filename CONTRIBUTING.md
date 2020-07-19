@@ -12,7 +12,8 @@
 5. Create a new Pull Request
 
 <p align="center">
-
-    <img alt="sky-remove" src="https://www.swlaw.edu/sites/default/files/styles/blog_detail/public/2019-10/Thank%20You%20Blog.jpg?itok=P_az2O7P"/>
+    <img alt="wer" src="https://www.swlaw.edu/sites/default/files/styles/blog_detail/public/2019-10/Thank%20You%20Blog.jpg?itok=P_az2O7P?raw=true" width="200"/>
+ 
+</p><p align="center">
    
 </p>
