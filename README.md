@@ -4,7 +4,7 @@
 
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/varuogm/My-snap-creations?label=total%20repo%20watches&style=social">
 
-
+star it and fork it .
 ---
 
 ## Blacked 💀
